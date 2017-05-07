@@ -1,0 +1,32 @@
+
+.adTitle {
+    font-weight: bold;
+    font-size: x-large;
+    text-align: center;
+    margin-top: 20pt;
+}
+
+.adSubTitle {
+    font-weight: bold;
+    font-size: large;
+    text-align: center;
+}
+
+.adAuthor {
+    font-size: large;
+    text-align: center;
+}
+
+.adPrice {
+    text-align: center;
+}
+
+.adContent {
+    font-weight: bold;
+    font-size: small;
+    text-align: center;
+}
+
+.adCitation {
+    text-align: right;
+}
