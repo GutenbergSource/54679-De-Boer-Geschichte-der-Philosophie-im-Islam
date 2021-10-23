@@ -17,14 +17,16 @@
 <idno type=LibThing>#####</idno>
 <idno type=PGclearance>20161229050119tjde</idno>
 <idno type=PGDPProjectId>projectID586a029f7845a</idno>
-<idno type=PGSrc>#####</idno>
+<idno type=PGSrc>54679-De-Boer-Geschichte-der-Philosophie-im-Islam</idno>
 <idno type=epub-id>urn:uuid:f6c764f1-00fe-4d9a-a4e2-710d5734cc43</idno>
 <idno type=PGnum>54679</idno>
 <date>2017-05-07</date>
 <availability>
 <p>&availability.en;
 
-<p>This eBook is produced by the Online Distributed Proofreading Team at <xref url="http://www.pgdp.net/">www.pgdp.net</xref>.
+<p>This eBook is produced by the Online Distributed Proofreading Team at <xref url="https://www.pgdp.net/">www.pgdp.net</xref>.
+
+<p>An English translation of this ebook, <hi><xref url="pg:66566">The History of Philosophy in Islam</xref></hi>, is also available from Project Gutenberg.
 
 </availability>
 </publicationStmt>
@@ -45,7 +47,6 @@
 </encodingDesc>
 <profileDesc>
     <langUsage>
-        <language id=en>English</language>
         <language id=de>German</language>
         <language id=la>Latin</language>
         <language id=grc>Greek (Classical)</language>
@@ -261,10 +262,10 @@
 </front>
 <body>
 <div1 id=ch1 type=Chapter n=I>
-<head>I. Zur Einleitung.</head>
+<head><ab type=divNum>I.</ab> Zur Einleitung.</head>
 
 <div2 id=ch1.1 type=Section n=1>
-<head>1. Der Schauplatz.</head>
+<head><ab type=divNum>1.</ab> Der Schauplatz.</head>
 
 <p id=ch1.1.1><hi rend=bold>1.</hi> Von alters her war, wie heutzutage, die arabische Wüste der Tummelplatz unabhängiger Beduinenstämme. Mit freiem, gesundem Sinn blickten diese in ihre einförmige Welt hinein, deren höchster Reiz der Beutezug, deren geistiger Schatz die Stammesüberlieferung war. Weder die Errungenschaften geselliger Arbeit noch die Gaben schöner Muße waren ihnen bekannt. Nur an den Rändern der Wüste wurde, in Staatenbildungen, die oft von den Überfällen jener Beduinen zu leiden hatten, eine höhere Stufe der Gesittung erreicht. So war es im Süden, wo in christlicher Zeit unter abyssinischer oder persischer Oberhoheit das alte Reich der Königin von Saba fortbestand. Im Westen lagen an einer alten Handelsstraße Mekka und Medina (Jathrib), und besonders Mekka mit seinem Markte im Schutze eines Tempels war ein Mittelpunkt regen Verkehrs. Im Norden endlich hatten sich zwei halbsouveräne Staaten unter arabischen Fürsten gebildet: gegen Persien hin das Reich der Lachmiden in Hira und gegen Byzanz der Gassaniden Herrschaft in Syrien. Aber in Sprache und Poesie stellte sich schon vor Mohammed einigermaßen die Einheit der arabischen Nation dar. Die Dichter waren die Wissenden ihres Volkes. Ihre Zaubersprüche galten zunächst den Stämmen als Orakel. Doch ging ihre Wirkung wohl oft über den eigenen Stamm hinaus.
 
@@ -291,12 +292,12 @@
 <p>Über die östlichen Länder des Islam brauste dann (13. Jahrh.) der Mongolensturm dahin. Was der Türke übrig gelassen, raffte dieser hinweg. Es blühte da keine Kultur wieder auf, die aus sich heraus eine neue Kunst hervortrieb oder zu einer Erneuerung der Wissenschaft die Anregung darbot.
 
 
-<div2 id=ch1.2>
-<head>2. Orientalische Weisheit.</head>
+<div2 n=2 id=ch1.2>
+<head><ab type=divNum>2.</ab> Orientalische Weisheit.</head>
 
 <p id=ch1.2.1><hi rend=bold>1.</hi> Vor seiner Berührung mit dem Hellenismus hat der semitische Geist, in philosophischer Hinsicht, es nie <pb n=14 id=pb14>weiter als zu Rätselfragen und Spruchweisheit gebracht. Einzelbeobachtungen aus der Natur, hauptsächlich aber aus Leben und Schicksal des Menschen, liegen zu Grunde, und wo das Verständnis aufhört, stellt sich leicht die Ergebung in den allmächtigen und unergründlichen Willen Gottes ein. Wir kennen diese Weisheit aus dem Alten Testament. Dass sie sich ähnlich bei den Arabern ausbildete, zeigen uns die biblische Geschichte der Königin von Saba und die Gestalt des weisen Loqman in der arabischen Überlieferung.
 
-<p>Neben solcher Weisheit gab es überall die Magie des Zauberers, ein Wissen, das sich in der Herrschaft über die Dinge bewährte. Aber nur in den priesterlichen Kreisen Alt-Babyloniens, unter welchen Einflüssen und in welchem Umfange wissen wir nicht genau, erhob man sich zu einer wissenschaftlicheren Betrachtung der Welt. Vom Wirrsal des Erdendaseins wandte dort das Auge sich der himmlischen Ordnung zu. Nicht wie der Hebräer, der über ein gewisses Staunen nicht hinwegkam<note n=1>Hiob XXXVIII.</note> oder in den unzähligen Gestirnen nur ein Sinnbild eigener Nachkommenschaft sah<note n=2><xref url="bib:gen 15:3">1 Mos. XV 3</xref>.</note>, sondern ähnlich dem Griechen, der das Viele und Mannigfaltige unter dem Monde erst verstehen lernte, nachdem er in der Einheit und Stetigkeit der Himmelsbewegung die Harmonie des Alls gefunden hatte. Nur dass sich mit dem Guten, wie es denn im Hellenismus nicht anders war, viel mythologisches Spiel und astrologisches Afterwissen verschlangen.
+<p>Neben solcher Weisheit gab es überall die Magie des Zauberers, ein Wissen, das sich in der Herrschaft über die Dinge bewährte. Aber nur in den priesterlichen Kreisen Alt-Babyloniens, unter welchen Einflüssen und in welchem Umfange wissen wir nicht genau, erhob man sich zu einer wissenschaftlicheren Betrachtung der Welt. Vom Wirrsal des Erdendaseins wandte dort das Auge sich der himmlischen Ordnung zu. Nicht wie der Hebräer, der über ein gewisses Staunen nicht hinwegkam<note n=1>Hiob XXXVIII.</note> oder in den unzähligen Gestirnen nur ein Sinnbild eigener Nachkommenschaft sah<note n=2><xref url="bib:gn 15:3">1 Mos. XV 3</xref>.</note>, sondern ähnlich dem Griechen, der das Viele und Mannigfaltige unter dem Monde erst verstehen lernte, nachdem er in der Einheit und Stetigkeit der Himmelsbewegung die Harmonie des Alls gefunden hatte. Nur dass sich mit dem Guten, wie es denn im Hellenismus nicht anders war, viel mythologisches Spiel und astrologisches Afterwissen verschlangen.
 
 <p>Diese chaldäische Weisheit wurde in Babylonien und Syrien seit den Tagen Alexanders des Großen mit hellenistischen, später mit hellenistisch-christlichen Ideen durchsetzt oder davon verdrängt. Nur in der syrischen Stadt Harran hielt sich bis in die Zeit des Islam das alte Heidentum, von christlichen Einflüssen wenig berührt. (<abbr>Vgl.</abbr> <ref target=ch1.3.4>I, 3 § 4</ref>.)
 
@@ -311,8 +312,8 @@
 <p>Orientalische Weisheit, Astrologie und Kosmologie, hat den muslimischen Denkern mancherlei Stoff geliefert, aber die Form, das bildende Prinzip, kam ihnen von den Griechen her. Überall, wo es sich nicht um bloßes Aufzählen oder zufälliges Zusammenreihen handelt, sondern nach sachlichen oder logischen Gesichtspunkten eine Anordnung des Mannigfaltigen versucht wird, darf mit Wahrscheinlichkeit auf griechischen Einfluss geschlossen werden.
 
 
-<div2 id=ch1.3>
-<head>3. Griechische Wissenschaft.</head>
+<div2 n=3 id=ch1.3>
+<head><ab type=divNum>3.</ab> Griechische Wissenschaft.</head>
 
 <p id=ch1.3.1><hi rend=bold>1.</hi> Wie die Perser hauptsächlich den Handelsverkehr zwischen Indien-China und Byzanz leiteten, so traten im fernen Westen, bis ins Frankenreich, die Syrer als Kulturvermittler auf. Es waren Syrer, die Wein, Seide <abbr>u. s. w.</abbr> <pb n=18 id=pb18>ins Abendland einführten. Aber es waren auch Syrer, die griechische Bildung aus Alexandrien und Antiochien nach Osten hin verbreiteten und in den Schulen von Edessa und Nisibis, Harran und Gondeschapur fortpflanzten. Syrien war das richtige Land der Mitte, wo Jahrhunderte lang die beiden Weltmächte, die römische und die persische, feindlich oder friedlich zusammenstießen. Unter solchen Umständen spielten die christlichen Syrer eine Rolle, wie sie ähnlich später den Juden zu teil ward.
 
@@ -393,10 +394,10 @@
 
 <pb n=34 id=pb34>
 <div1 id=ch2 n=II>
-<head>II. Philosophie und arabisches Wissen.</head>
+<head><ab type=divNum>II.</ab> Philosophie und arabisches Wissen.</head>
 
 <div2 id=ch2.1 n=1>
-<head>1. Die Sprachwissenschaft.</head>
+<head><ab type=divNum>1.</ab> Die Sprachwissenschaft.</head>
 
 <p id=ch2.1.1><hi rend=bold>1.</hi> Von muslimischen Gelehrten des zehnten Jahrhunderts wurden die Wissenschaften in arabische und in alte oder nichtarabische eingeteilt. Zu den ersteren gehörten Sprachwissenschaft, Pflichten- und Glaubenslehre, Litteraturkenntnis und Geschichte; zu den letzteren die philosophischen, naturwissenschaftlichen und medizinischen Disziplinen. Im großen Ganzen ist die Einteilung richtig. Die letztgenannten Fächer sind nicht nur am meisten von fremden Einflüssen bestimmt, sondern auch nie recht populär geworden. Doch sind auch die sogenannten arabischen Wissenschaften nicht ganz rein einheimische Schöpfungen. Auch sie sind entstanden oder ausgebildet, wo im muslimischen Reiche Araber und Nichtaraber zusammentrafen und das Bedürfnis erwachte, über die den Menschen nächstliegenden Gegenstände, Sprache und Poesie, Recht und Religion, sofern sich darin Unterschiede oder Unzulänglichkeiten zeigten, nachzudenken. In der Weise, wie dieses geschah, spürt man deutlich den Einfluss von Nichtarabern, namentlich Persern, und immer bedeutender macht sich auch dabei die Einwirkung griechischer Philosophie geltend.
 
@@ -415,8 +416,8 @@
 <p id=ch2.1.5><hi rend=bold>5.</hi> Trotz alledem behielt die Sprachwissenschaft, die sich auf das Arabische beschränkte, ihre Eigentümlichkeiten, auf die hier einzugehen nicht am Platze ist. Jedenfalls ist sie eine großartige Schöpfung des fein beobachtenden und <corr sic=fleissig>fleißig</corr> sammelnden arabischen Geistes, darauf die Araber stolz sein durften. Ein Apologet des zehnten Jahrhunderts, der sich gegen die griechische Philosophie wendet, sagte: &ldquo;Wer die Feinheiten und Tiefen der arabischen Poesie und Metrik kennt, der weiß, dass sie alles dasjenige übertrifft, was die Leute als Beweise für ihre Meinungen anzuführen pflegen, welche in dem Wahne leben, dass sie die Wesenheiten der Dinge zu erkennen im Stande sind: Zahlen, Linien und Punkte. Ich kann den Nutzen dieser Dinge nicht einsehen, es sei denn, dass sie trotz des geringen Nutzens, den sie bringen, den Glauben schädigen und Dinge im Gefolge haben, gegen welche wir Gottes Beistand anrufen.&rdquo; Man wollte sich seine Freude an den Einzelheiten der Sprache durch allgemeine philosophische Spekulationen nicht trüben lassen. Manche Wortbildung, von den Übersetzern fremder Werke herrührend, wurde als barbarisch <pb n=38 id=pb38>von puristischen Sprachlehrern verabscheut. Und weitere Verbreitung als die wissenschaftliche Sprachforschung fand die schöne Kunst der Kalligraphie, die sich, wie die arabische Kunst überhaupt, mehr dekorativ als konstruktiv, in edlen, feinen Formen entwickelte. In den Schriftzügen der arabischen Sprache zeigt sich uns noch die Subtilität des Geistes, der sie gebildet, zugleich aber auch ein Mangel an Energie, der sich in der ganzen Entwicklung arabischer Kultur bemerklich gemacht hat.
 
 
-<div2 id=ch2.2>
-<head>2. Die Pflichtenlehre.</head>
+<div2 n=2 id=ch2.2>
+<head><ab type=divNum>2.</ab> Die Pflichtenlehre.</head>
 
 <p id=ch2.2.1><hi rend=bold>1.</hi> Der gläubige Muslim hatte, sofern nicht das Herkommen seine Herrschaft behauptete, anfangs als Richtschnur seines Handelns und Urteilens das Wort Gottes und das Beispiel seines Propheten. Nachdem dieser gestorben war, folgte man, falls der Koran keine Auskunft erteilte, der Sunna Mohammeds, <abbr>d. h.</abbr> man that und entschied, wie der Überlieferung seiner Genossen nach Mohammed entschieden oder gehandelt hatte. Aber seit der Eroberung alter Kulturländer traten an den Islam ganz neue Ansprüche heran. Statt der einfachen Verhältnisse arabischen Lebens fanden sich dort Gewohnheiten und Einrichtungen vor, für die das heilige Gesetz keine Bestimmung bot und noch keine Tradition vorhanden oder ausgedeutet war. Jeden Tag häuften sich also die Einzelfälle, die nicht vorgesehen waren, und die man, sei es nach dem Herkommen oder nach eigenem Gutdünken beurteilen musste. In den altrömischen Provinzen, Syrien und Mesopotamien, wird dabei das römische Recht noch lange Zeit eine bedeutende Wirkung ausgeübt haben.
 
@@ -443,8 +444,8 @@
 <p>Das Schwergewicht philosophischer Bestrebungen im Islam liegt auf der theoretischen, intellektuellen Seite. Mit den thatsächlichen Vorgängen des gesellschaftlichen und staatlichen Lebens weiß man sich nur notdürftig abzufinden. Auch die Kunst der Muslime, obgleich sie viel mehr Originelles zeigt als ihre Wissenschaft, versteht es nicht, die spröden Stoffe zu beleben, sondern spielt mit zierlichen Formen. Die Poesie schafft kein Drama. Und ihre Philosophie ist nicht praktisch.
 
 
-<div2 id=ch2.3>
-<head>3. Die Glaubenslehre.</head>
+<div2 n=3 id=ch2.3>
+<head><ab type=divNum>3.</ab> Die Glaubenslehre.</head>
 
 <p id=ch2.3.1><hi rend=bold>1.</hi> Im Koran war den Muslimen eine Religion, keine Lehre, Gesetze, aber keine Dogmen gegeben. Was sich darin der Logik widersetzte, was wir uns aus den wechselnden Lebensverhältnissen und den verschiedenen Stimmungen des Propheten erklären, wurde von den ersten Gläubigen einfach hingenommen, ohne zu fragen nach dem Wie und Warum. In den eroberten Ländern aber fand man eine ausgebildete christliche Dogmatik, sowie zoroastrische und <pb n=43 id=pb43>brahmanische Lehren vor. Wie viel die Muslime den Christen verdanken, haben wir schon öfter betont. Die Glaubenslehre ist von christlichen Einflüssen wohl am meisten bestimmt worden. In Damaskus wirkten orthodoxe und monophysitische Lehren, in Basra und Bagdad vielleicht mehr nestorianische und gnostische Theoreme auf die Bildung muslimischer Dogmen ein. Litterarisches hat sich aus der ersten Zeit dieser Bewegung wenig erhalten. Man wird sich aber nicht irren, wenn man dem persönlichen Verkehre und dem schulmäßigen Unterricht eine bedeutende Wirkung zuschreibt. Wie noch heute, lernte man damals im Orient nicht viel aus Büchern, sondern mehr aus dem Munde des Lehrers. Die Ähnlichkeit zwischen den ältesten Glaubenslehren im Islam und den Dogmen des Christentums ist zu groß, dass man einen direkten Zusammenhang leugnen könnte. Die erste Frage nämlich, über die von muslimischen Gelehrten viel disputiert wurde, war die nach der Freiheit des Willens. Die Willensfreiheit nun wurde von den orientalischen Christen fast allgemein angenommen. Nie und nirgends hat man vielleicht über das Willensproblem, in der Christologie zunächst, aber auch in der Anthropologie, so viel hin und her geredet, wie in den christlichen Kreisen des Ostens zur Zeit der muslimischen Eroberung.
 
@@ -562,8 +563,8 @@
 
 
 <pb n=63 id=pb63>
-<div2 id=ch2.4>
-<head>4. Litteratur und Geschichte.</head>
+<div2 n=4 id=ch2.4>
+<head><ab type=divNum>4.</ab> Litteratur und Geschichte.</head>
 
 <p id=ch2.4.1><hi rend=bold>1.</hi> Arabische Poesie und Annalistik haben sich unabhängig von Schulgelehrsamkeit ausgebildet. Im Laufe der Zeit aber wussten Litteratur und Geschichtschreibung sich nicht von fremden Einflüssen rein zu erhalten. Mit einigen Andeutungen, dies zu erhärten, müssen wir uns hier begnügen.
 
@@ -618,10 +619,10 @@
 
 <pb n=69 id=pb69>
 <div1 id=ch3 n=III>
-<head>III. Die pythagoreische Philosophie.</head>
+<head><ab type=divNum>III.</ab> Die pythagoreische Philosophie.</head>
 
 <div2 id=ch3.1 n=1>
-<head>1. Die Naturphilosophie.</head>
+<head><ab type=divNum>1.</ab> Die Naturphilosophie.</head>
 
 <p id=ch3.1.1><hi rend=bold>1.</hi> Euklid und Ptolemäus, Hippokrat und Galen, einiges von Aristoteles, dazu ein umfangreiches neupythagoreisches und neuplatonisches Schrifttum, damit sind die Elemente der arabischen Naturphilosophie bezeichnet. Es ist eine Popularphilosophie, die, besonders durch die Sabier von Harran vermittelt, bei Schiiten und anderen Sekten Aufnahme fand, und die in der Folge nicht nur höfische Kreise, sondern auch eine ganze Masse von Gebildeten und Halbgebildeten ergriff. Einzelheiten aus den Schriften des &ldquo;Logikers&rdquo; Aristoteles wurden aufgenommen, aus der <corr sic=Metereologie>Meteorologie</corr>, aus der ihm zugeschriebenen Schrift Über die Welt, aus dem Buch der Tiere, der Psychologie <abbr>u. s. w.</abbr>, aber der Geist des Ganzen ist von Pythagoras-Platon, von Stoikern und von späten Astrologen und Alchemisten bestimmt. Menschliche Neugierde und frommer Sinn, die Gottes Geheimnisse aus seinen Geschöpfen herauslesen möchten, gehen dabei über das praktische Bedürfnis, das etwas Rechenkunst für die Verteilung der Erbschaft und für den Handel, auch etwas Astronomie für die Zeitbestimmung gottesdienstlicher Verrichtungen brauchte, weit hinaus. Von überall her holt man sich seine Weisheit herbei. Es bekundet sich darin eine Gesinnung, die von Masudi richtig formuliert wurde: es sei das Gute anzuerkennen, ob es sich beim Feinde oder beim Freunde finde. Sollte doch Ali, der Fürst der Gläubigen, gesagt haben: &ldquo;Die Weltweisheit ist das verirrte Schaf des Gläubigen, nimm es wieder auf, wenn auch von den Ungläubigen&rdquo;.
 
@@ -654,8 +655,8 @@
 <p id=ch3.1.6><hi rend=bold>6.</hi> Razi hatte sich nach zwei Seiten hin polemisch zu verhalten. Er bekämpfte einerseits die muslimische Einheit Gottes, die keine ewige Seele, Materie, Raum und Zeit neben sich duldet, andererseits aber wendete er sich gegen das dahritische System, das keinen Weltschöpfer anerkennt. Dieses System, das von muslimischen Schriftstellern öfter, mit dem gehörigen Abscheu natürlich, erwähnt <pb n=76 id=pb76>wird, scheint, wenn auch zahlreiche, doch keine bedeutende Vertreter gefunden zu haben. Die Anhänger des Dahr (<abbr>s.</abbr> <ref target=ch1.2.2>I<corr>,</corr> 2 § 2</ref>) werden als Materialisten, Sensualisten, Atheisten, Anhänger der Seelenwanderung <abbr>u. s. w.</abbr> uns vorgeführt, aber Genaueres über ihre Lehren erfahren wir nicht. Die Dahriten hatten jedenfalls nicht das Bedürfnis, alles Seiende auf ein Prinzip zurückzuführen, das geistigen Wesens und schaffenden Wirkens war. Und eines solchen Prinzipes bedurfte die muslimische Philosophie, sollte sie sich mit der Glaubenslehre auch nur einigermaßen vertragen. Dazu eignete sich die Naturphilosophie nicht, weil diese mehr Interesse zeigte für die mannigfachen und oft gegensätzlichen Wirkungen der Natur als für den Einen Urgrund des Alls. Besser aber erfüllte diesen Zweck der neuplatonische Aristotelismus, dessen logisch-metaphysische Spekulation darauf ausging, alles Seiende auf ein höchstes Sein zurückzuführen oder alle Dinge aus einem obersten Wirkungsprinzip abzuleiten. Doch bevor wir uns dieser Richtung des Denkens, die schon im neunten Jahrhundert sich zu zeigen anfing, zuwenden, haben wir noch über einen Versuch zu berichten, die Naturphilosophie mit den Lehren des Glaubens zu einer Religionsphilosophie zu verschmelzen.
 
 
-<div2 id=ch3.2>
-<head>2. Die treuen Brüder von Basra.</head>
+<div2 n=2 id=ch3.2>
+<head><ab type=divNum>2.</ab> Die treuen Brüder von Basra.</head>
 
 <p id=ch3.2.1><hi rend=bold>1.</hi> Im Orient, wo jede Religion einen Staat im Staate bildete, trat eine politische Partei, schon damit sie überhaupt Anhänger gewinne, immer zugleich als religiöse Sekte auf. Prinzipiell kannte nun der Islam keinen Unterschied zwischen den Menschen, keine Kasten oder Stände. Aber Besitz und Bildung haben überall dieselbe Wirkung. Und in ihrem Gefolge fing man an, Grade der Frömmigkeit und Stufen der Erkenntnis aufzustellen, danach Gemeinde oder Partei sich einteilen ließe. So entstanden geheime Gesellschaften mit verschiedenen Graden, deren <pb n=77 id=pb77>höchster oder nächsthöchster eine Geheimlehre besaß, die der neupythagoreischen Naturphilosophie manches entlehnte. Zu ihrem Zwecke, Eroberung politischer Macht, war jedes Mittel erlaubt. Für die Eingeweihten wurde der Koran allegorisch ausgelegt. Zwar führte man diese geheime Weisheit auf Propheten mit biblischen und koranischen Namen zurück, es steckten aber heidnische Philosophen dahinter. Die Philosophie wurde ganz zu einer politischen Mythologie umgebildet. Die hohen Geister und Seelen, die theoretische Denker in Gestirnen und Planeten erkannten, verkörperten sich für die Realpolitik in menschliche Wesen, denen zur Gründung eines irdischen Reiches der Gerechtigkeit behülflich zu sein, als religiöse Pflicht verkündigt ward. Man kann die Gesellschaften, die solches betrieben, am besten mit Vereinen vergleichen, wie sie bis auf den Saint-Simonismus und verwandte Erscheinungen dieses Jahrhunderts, in Ländern, wo die Geistesfreiheit beschränkt ist, aufzutreten pflegen.
 
@@ -724,11 +725,11 @@
 
 <pb n=90 id=pb90>
 <div1 id=ch4 n=IV>
-<head>IV. Die neuplatonischen Aristoteliker des Ostens.</head>
+<head><ab type=divNum>IV.</ab> Die neuplatonischen Aristoteliker des Ostens.</head>
 
 
-<div2 id=ch4.1>
-<head>1. Kindi.<note n=1><abbr>Vgl.</abbr> den Art. &ldquo;Zu Kindi und seiner Schule&rdquo; in Stein&apos;s Archiv für Geschichte der Philosophie XIII, S. 153 ff., aus dem ich manches, ohne viel zu ändern, hier wieder aufgenommen habe.</note></head>
+<div2 n=1 id=ch4.1>
+<head><ab type=divNum>1.</ab> Kindi.<note n=1><abbr>Vgl.</abbr> den Art. &ldquo;Zu Kindi und seiner Schule&rdquo; in Stein&apos;s Archiv für Geschichte der Philosophie XIII, S. 153 ff., aus dem ich manches, ohne viel zu ändern, hier wieder aufgenommen habe.</note></head>
 
 <p id=ch4.1.1><hi rend=bold>1.</hi> Kindi steht in mannigfachen Beziehungen zu den mutazilitischen Dialektikern und den neupythagoreischen Naturphilosophen seiner Zeit und wir hätten ihn also schon vor Razi (<abbr>s.</abbr> <ref target=ch3.1.5>III, 1 § 5</ref>) unter den letzteren behandeln können. Doch hat ihn die Tradition einstimmig als den ersten Peripatetiker im Islam hingestellt. Mit welchem Rechte, wird sich, soweit es aus den wenigen mangelhaft erhaltenen Schriften dieses Philosophen möglich ist, im folgenden ergeben.
 
@@ -768,8 +769,8 @@
 
 
 <pb n=98 id=pb98>
-<div2 id=ch4.2>
-<head>2. Farabi.</head>
+<div2 n=2 id=ch4.2>
+<head><ab type=divNum>2.</ab> Farabi.</head>
 
 <p id=ch4.2.1><hi rend=bold>1.</hi> Im zehnten Jahrhundert werden von den Naturphilosophen die Logiker oder Metaphysiker unterschieden. Diese befolgen eine strengere Methode als die Dialektiker und behandeln andere Gegenstände als die Physiker. Von Pythagoras haben sie sich losgesagt, um sich der Führung des Aristoteles, freilich in neuplatonischer Gestalt, anzuvertrauen.
 
@@ -868,8 +869,8 @@
 <p>Einzelnes hervorzuheben aus den Gesprächen, deren Grundstimmung wir angegeben, verlohnt sich nicht. Kulturhistorisch ist die Erscheinung Sidschistanis und seines Kreises wichtig, aber für die Fortbildung der Philosophie im Islam hat sie keine Bedeutung. Was für Farabi wirklich das Leben seines Geistes war, wird in dieser Gesellschaft gar oft zum Gegenstande geistreicher Unterhaltung.
 
 
-<div2 id=ch4.3>
-<head>3. Ibn Maskawaih.</head>
+<div2 n=3 id=ch4.3>
+<head><ab type=divNum>3.</ab> Ibn Maskawaih.</head>
 
 <p id=ch4.3.1><hi rend=bold>1.</hi> Wir sind an die Wende des zehnten und elften Jahrhunderts gelangt. Farabis Schule scheint auszusterben und Ibn Sina, der die Philosophie seines Vorgängers zu neuem Leben erwecken sollte, ist noch ein Jüngling. Hier aber haben wir eines Mannes zu gedenken, der zwar dem Kindi näher als dem Farabi verwandt ist, doch auch, wegen der Gemeinsamkeit ihrer Quellen, in wesentlichen Punkten mit dem letzteren übereinstimmt. Sein Beispiel zeigt zugleich, dass die hellsten Köpfe der Zeit nicht gesonnen waren, Farabi auf das Gebiet logisch-metaphysischer Spekulationen zu folgen.
 
@@ -890,8 +891,8 @@
 <p>Im einzelnen ist es Ibn Maskawaih nicht gelungen, die ethischen Lehren der Griechen, die er in seine Darstellung aufnimmt, unter einander und mit dem Gesetz des Islam zu verschmelzen. Wir übergehen das. Doch ist <pb n=119 id=pb119>nicht nur im allgemeinen sein Versuch zu loben, eine von der Kasuistik der Pflichtenlehrer und von der Askese der <sic>Sufi&apos;s</sic> freie Ethik zu geben, sondern auch in der Ausführung ist die Besonnenheit eines reichgebildeten Mannes anzuerkennen.
 
 
-<div2 id=ch4.4>
-<head>4. Ibn Sina.</head>
+<div2 n=4 id=ch4.4>
+<head><ab type=divNum>4.</ab> Ibn Sina.</head>
 
 <p id=ch4.4.1><hi rend=bold>1.</hi> Zu Efschene, in der Nähe Bocharas, wurde im Jahre 980 aus einer Beamtenfamilie geboren Abu Ali al-Hosain ibn Abdallah ibn Sina (<hi rend=ex>Avicenna</hi>). Im elterlichen Hause, wo persische und anti-muslimische Traditionen lebendig waren, erhielt er seine weltliche und religiöse Erziehung. Dann studierte der körperlich und geistig frühreife Jüngling Philosophie und Medizin in Bochara. Siebzehn Jahre war er alt, als er den Fürsten Nuch ibn Mansur glücklich kurierte, und der Zutritt zu dessen Bibliothek ihm gestattet ward. Von jetzt ab war er, in Studium und Praxis, sein eigener Lehrer. Er verstand es, das Leben und die Bildung seiner Zeit sich zu Nutzen zu machen. Im Getriebe der Kleinstaaterei versuchte er unablässig sein Glück. Einem großen Fürsten hätte er sich wohl ebensowenig unterordnen können wie in der Wissenschaft einem Lehrer. Von Hof zu Hof wanderte er fort, bald in der Staatsverwaltung, bald als Lehrer und Schriftsteller thätig, bis er Wezir des Schems addaula in Hamadan wurde. Nach dem Tode dieses Fürsten ward er von dessen Sohne ein paar Monate auf die Festung geschickt. Darauf ging er weiter nach Ispahan zu Ala addaula. Endlich starb er noch in Hamadan, das Ala addaula erobert hatte, im Alter von 57 Jahren (1037). Sein Grab wird noch heute dort gezeigt.
 
@@ -973,8 +974,8 @@
 
 
 <pb n=133 id=pb133>
-<div2 id=ch4.5>
-<head>5. Ibn al-Haitham.</head>
+<div2 n=5 id=ch4.5>
+<head><ab type=divNum>5.</ab> Ibn al-Haitham.</head>
 
 <p id=ch4.5.1><hi rend=bold>1.</hi> Nach Ibn Sina und seiner Schule fand die theoretische Philosophie in den östlichen Ländern des muslimischen Reiches wenig Pflege mehr. Die arabische Sprache musste im Leben und in der Litteratur dort immer mehr der persischen weichen. Dass letztere Sprache sich weniger gut zu abstrakt logischen und metaphysischen Erörterungen eignet, dürfte dabei nur ganz nebensächlich ins Gewicht fallen. Es änderten sich in trauriger Weise die Kulturverhältnisse und damit die Interessen der Menschen. Ethik und Politik traten in den Vordergrund, jedoch ohne eine wirklich neue Gestalt zu bekommen. Ganz vorherrschend aber war es in der neupersischen Litteratur eine teils freigeistige, teils, und zwar überwiegend, mystische Poesie, die das Bedürfnis der Gebildeten nach Weisheit befriedigte.
 
@@ -1006,10 +1007,10 @@
 
 <pb n=138 id=pb138>
 <div1 id=ch5 n=V>
-<head>V. Der Ausgang der Philosophie im Osten.</head>
+<head><ab type=divNum>V.</ab> Der Ausgang der Philosophie im Osten.</head>
 
 <div2 id=ch5.1 n=1>
-<head>1. Gazali.</head>
+<head><ab type=divNum>1.</ab> Gazali.</head>
 
 <p id=ch5.1.1><hi rend=bold>1.</hi> Wir haben früher schon gesehen, dass die theologische Bewegung im Islam stark von der Philosophie beeinflusst war. Nicht nur die mutazilitische, sondern auch die antimutazilitische Dialektik holte ihre Ansichten und die Argumente, womit sie die eigene Lehre stützte, die des Gegners bekämpfte, zum großen Teile aus den Schriften der Philosophen. Man nahm aus diesen auf, was man eben brauchen konnte, das andere ließ man auf sich beruhen, oder aber man machte den Versuch, es zu widerlegen. So entstanden zahlreiche Schriften, gegen eine besondere philosophische Lehre oder einen einzelnen Philosophen gerichtet. Ein Versuch aber, das ganze System der Philosophie, wie es im Osten auf griechischer Grundlage aufgebaut war, nach eingehendem Studium von allgemeinen Gesichtspunkten aus zu bekämpfen, ist wohl vor Gazali nicht gemacht worden.
 
@@ -1078,8 +1079,8 @@
 <p>Nicht jeder erlebt das so wie Gazali. Wer ihm aber bei seinem mystischen Fluge, über die Bedingungen möglicher Erfahrung hinaus, nicht folgen kann, wird doch eingestehen müssen, dass seine Irrfahrten auf der Suche nach dem Höchsten für die Geschichte des menschlichen Geistes nicht weniger wichtig sind als die scheinbar sicheren Gänge der Philosophen seiner Zeit durch ein Land, das andere vor ihnen entdeckt haben.
 
 
-<div2 id=ch5.2>
-<head>2. Die Kompendienschreiber.</head>
+<div2 n=2 id=ch5.2>
+<head><ab type=divNum>2.</ab> Die Kompendienschreiber.</head>
 
 <p id=ch5.2.1><hi rend=bold>1.</hi> In einer Geschichte des gelehrten Unterrichtes bei den muslimischen Völkern müsste dieser Gegenstand einen größeren Raum einnehmen; wir werden ihn hier mit wenigen Worten abthun.
 
@@ -1099,10 +1100,10 @@
 
 <pb n=153 id=pb153>
 <div1 id=ch6 n=VI>
-<head>VI. Die Philosophie im Westen.</head>
+<head><ab type=divNum>VI.</ab> Die Philosophie im Westen.</head>
 
-<div2 id=ch6.1>
-<head>1. Die Anfänge.</head>
+<div2 n=1 id=ch6.1>
+<head><ab type=divNum>1.</ab> Die Anfänge.</head>
 
 <p id=ch6.1.1><hi rend=bold>1.</hi> Zum muslimischen Occidente rechnet man das westliche Nordafrika, Spanien und Sizilien. Nordafrika hat zunächst untergeordnete Bedeutung. Sizilien richtet sich nach Spanien und wird bald von den Nordmannen Unteritaliens unterworfen. Für unseren Zweck kommt zunächst das muslimische Spanien oder Andalusien in Betracht.
 
@@ -1122,8 +1123,8 @@
 
 
 <pb n=156 id=pb156>
-<div2 id=ch6.2>
-<head>2. Ibn Baddscha.</head>
+<div2 n=2 id=ch6.2>
+<head><ab type=divNum>2.</ab> Ibn Baddscha.</head>
 
 <p id=ch6.2.1><hi rend=bold>1.</hi> Gegen Ende des elften Jahrhunderts, als Abu Bekr Mohammed ibn Jachja ibn al-Saig ibn Baddscha in Saragossa geboren wurde, war das schöne Andalusien nahe daran, in seiner Kleinstaaterei unterzugehen. Von Norden her wurde es von den weniger gebildeten, aber kräftigen und tapferen Christenrittern bedroht. Da griff aber rettend die berberische Dynastie der Almoraviden ein, die nicht nur fester im Glauben, sondern auch klüger in der Politik war als die üppigen Herrschergeschlechter Spaniens. Jetzt schien die Zeit feiner Bildung und freien Forschens für immer dahin. Nur Traditionarier der strengsten Observanz durften öffentlich auftreten. Und die Philosophen, wenn sie sich nicht verborgen hielten, wurden verfolgt oder getötet.
 
@@ -1148,8 +1149,8 @@
 <p>Um menschlich leben, vernünftig handeln zu können, muss unter Umständen der Einzelne sich aus der Gesellschaft zurückziehen. Ibn Baddschas Ethik heißt &ldquo;die Leitung des Einsamen&rdquo;. Zur Selbsterziehung fordert sie auf. In der Regel aber kann man sich der Vorteile menschlichen Zusammenlebens bedienen, ohne die Nachteile mit in den Kauf zu nehmen. Zu kleineren oder größeren Verbänden können die Weisen sich zusammenschließen, ja das ist sogar ihre Pflicht, wenn sie sich treffen. Sie bilden dann einen Staat im Staate. Naturgemäß versuchen sie zu leben, sodass unter ihnen weder Arzt noch Richter nötig ist. Wie Pflanzen in freier Luft wachsen sie auf und brauchen die Kunst der Gärtner nicht. Von den niederen Genüssen und Gesinnungen der Menge halten sie sich fern. Sie sind Fremdlinge in dem weltlichen Treiben der Gesellschaft. Und da sie Freunde unter einander sind, wird dieses Leben ganz von der Liebe bestimmt. Und als Freunde Gottes, der die Wahrheit ist, finden sie ihre Ruhe in der Vereinigung mit dem übermenschlichen Geiste der Erkenntnis.
 
 
-<div2 id=ch6.3>
-<head>3. Ibn Tofail.</head>
+<div2 n=3 id=ch6.3>
+<head><ab type=divNum>3.</ab> Ibn Tofail.</head>
 
 <p id=ch6.3.1><hi rend=bold>1.</hi> Die Herrschaft über den westlichen Islam verblieb den Berbern, aber an die Stelle der Almoraviden traten alsbald die Almohaden. Der Gründer der neuen Dynastie, Mohammed ibn Tumart, war seit 1121 als Mahdi aufgetreten. Unter seinen Nachfolgern Abu Jaaqub Jusuf (1163&ndash;1184) und Abu Jusuf Jaaqub (1184&ndash;1198) erreichte ihre Herrschaft, deren Sitz Marokko, den Höhepunkt.
 
@@ -1182,8 +1183,8 @@
 <p>Auf diese Weise wird er allmählich befähigt, sein Selbst über Erde und Himmel hinaus zum reinen Geiste zu erheben. Das ist der Zustand der Ekstase, den kein Gedanke, kein Wort, kein Bild je hat fassen oder ausdrücken können.
 
 
-<div2 id=ch6.4>
-<head>4. Ibn Roschd.</head>
+<div2 n=4 id=ch6.4>
+<head><ab type=divNum>4.</ab> Ibn Roschd.</head>
 
 <p id=ch6.4.1><hi rend=bold>1.</hi> Abu-l-Walid Mohammed ibn Achmed ibn Mohammed ibn Roschd (Averroes) wurde im Jahre 1126 zu Kordova aus einer Juristenfamilie geboren. Dort eignete er sich auch die gelehrte Bildung seiner Zeit an. Im Jahre 1153 <pb n=166 id=pb166>soll er von Ibn Tofail dem Fürsten Abu Jaaqub Jusuf vorgestellt sein, über welchen Vorfall wir einen charakteristischen Bericht besitzen. Nach den einleitenden Höflichkeitsphrasen nämlich fragte ihn der Fürst: Was ist die Ansicht der Philosophen über den Himmel, ist er ewig oder entstanden? Vorsichtig antwortete Ibn Roschd, er beschäftige sich nicht mit Philosophie. Darauf fing der Fürst mit Ibn Tofail über den Gegenstand an zu reden und zeigte zum Erstaunen des Zuhörers seine Bekanntschaft mit Aristoteles, Platon und den Philosophen und Theologen des Islam. Jetzt rückte auch Ibn Roschd mit der Sprache heraus und erwarb sich die Gunst des hohen Herrn. Sein Schicksal war bestimmt. Er sollte den Aristoteles interpretieren, wie keiner es vor ihm gethan, damit die Menschheit rein und vollständig die Wissenschaft besitze.
 
@@ -1244,10 +1245,10 @@
 
 <pb n=177 id=pb177>
 <div1 id=ch7 n=VII>
-<head>VII. Zum Schluss.</head>
+<head><ab type=divNum>VII.</ab> Zum Schluss.</head>
 
-<div2 id=ch7.1>
-<head>1. Ibn Chaldun.</head>
+<div2 n=1 id=ch7.1>
+<head><ab type=divNum>1.</ab> Ibn Chaldun.</head>
 
 <p id=ch7.1.1><hi rend=bold>1.</hi> Die Philosophie des Ibn Roschd und seine Erklärung des Aristoteles hat auf die muslimische Welt äußerst wenig gewirkt. Viele seiner Schriften sind im Original verloren gegangen, wir haben sie in hebräischen und lateinischen Übersetzungen. Schüler und Nachfolger hat er nicht gefunden. In abgelegenen Winkeln fand sich wohl mancher Freigeist oder Mystiker, in dessen Kopf es wunderlich genug aussah, um sich ernstlich mit philosophischen Fragen theoretischer Art abzumühen, aber auf die allgemeine Bildung und die Gestaltung der Verhältnisse zu wirken, wurde der Philosophie nicht verstattet. Vor den siegreichen Waffen der Christen zog die materielle und damit auch die geistige Kultur der Muslime sich immer weiter zurück. Spanien ward Afrika, wo der Berber herrschte. Die Zeit war ernst, es handelte sich um die Existenz des Islam in diesen Ländern. Zum Kampfe gegen den Feind, aber auch gegen einander, rüsteten sich die Männer, und zu mystischen Übungen schlossen sich überall die frommen Brüder zusammen. In den sufischen Orden dieser Leute retteten sich wenigstens noch einige philosophische Formeln. Als gegen die Mitte des dreizehnten Jahrhunderts Kaiser Friedrich II. den muslimischen Gelehrten von Ceuta eine Anzahl philosophischer Fragen vorlegte, beauftragte der Almohade Abdalwahid den Ibn Sabin, Stifter eines mystischen Ordens, damit, sie zu beantworten. Er that es. In schulmeisterlichem Tone leiert er die Ansichten alter und neuer Philosophen ab. Das <pb n=178 id=pb178>sufische Geheimnis, Gott sei die Realität aller Dinge, lässt er durchblicken. Das einzige aber, was wir aus seinen Antworten lernen können, ist, dass Ibn Sabin Bücher gelesen, von denen, wie er glaubt, Kaiser Friedrich keine blasse Ahnung hatte.
 
@@ -1274,8 +1275,8 @@
 <pb n=184 id=pb184><p>Die Hoffnung Ibn Chalduns ist in Erfüllung gegangen, aber nicht im Islam. Wie er ohne Vorgänger war, blieb er ohne Nachfolger. Doch hat sein Werk im Orient nachhaltig gewirkt. Viele muslimische Staatsmänner, die seit dem 15. Jahrhundert so manchen europäischen Fürsten und Diplomaten zur Verzweiflung gebracht haben, sind bei unserem Philosophen in die Schule gegangen.
 
 
-<div2 id=ch7.2>
-<head>2. Die Araber und die Scholastik.</head>
+<div2 n=2 id=ch7.2>
+<head><ab type=divNum>2.</ab> Die Araber und die Scholastik.</head>
 
 <p id=ch7.2.1><hi rend=bold>1.</hi> Dem Sieger gehört die Braut. In den Kriegen zwischen Christen und Muslimen, die in Spanien geführt wurden, hatten erstere oft die Anziehungskraft maurischer Schönen kennen gelernt. Manch christlicher Ritter hatte mit einer Mohrin den &ldquo;neuntägigen Gottesdienst&rdquo; gefeiert. Aber außer den materiellen Gütern und den sinnlichen Genüssen wirkten auch die Reize geistiger Kultur auf die Eroberer. Und so erschien die arabische Wissenschaft dem Auge vieler wissensbedürftiger Männer wie eine holde Braut.
 
@@ -1699,7 +1700,7 @@
 
 
 <pb n=193 id=pb193>
-<div1 id=ads type=Advertising>
+<div1 id=ads type=Advertisement>
 <head>Fr. Frommanns Verlag (E. Hauff) in Stuttgart.</head>
 
 
@@ -2214,20 +2215,20 @@
 <p>Ihre Mitarbeit bei diesem Unternehmen haben bisher zugesagt oder doch in Aussicht gestellt:
 
 <table>
-<row><cell>Prof. Dr. <hi>v. Bezold</hi> in <hi>Bonn</hi>      <cell>für <hi rend=bold>Bodinus</hi>.
-<row><cell>Dr. <hi>Gaupp</hi> in <hi>London</hi>              <cell><ditto>für</ditto> <hi rend=bold>Gladstone</hi>.
-<row><cell>Prof. Dr. <hi>Gothein</hi> in <hi>Bonn</hi>        <cell><ditto>für</ditto> <hi rend=bold>Vico</hi>.
-<row><cell>Prof. Dr. <hi>Grünberg</hi> in <hi>Wien</hi>       <cell><ditto>für</ditto> <hi rend=bold>Turgot</hi>.
-<row><cell>Prof. Dr. <hi>Hasbach</hi> in <hi>Kiel</hi>        <cell><ditto>für</ditto> <hi rend=bold>Adam Smith</hi>.
-<row><cell>Prof. Dr. <hi>Hintze</hi> in <hi>Berlin</hi>       <cell><ditto>für</ditto> <hi rend=bold>Friedrich d. Gr.</hi>
-<row><cell>Prof. Dr. <hi>Marcks</hi> in <hi>Leipzig</hi>      <cell><ditto>für</ditto> <hi rend=bold>Dahlmann</hi>.
-<row><cell>Prof. Dr. <hi>Oldenberg</hi> in <hi>Marburg</hi>   <cell><ditto>für</ditto> <hi rend=bold>K. Marx</hi>.
-<row><cell>Prof. Dr. <hi>Pribram</hi> in <hi>Wien</hi>        <cell><ditto>für</ditto> <hi rend=bold>Cromwell</hi>.
-<row><cell>Prof. Dr. <hi>Rathgen</hi> in <hi>Marburg</hi>     <cell><ditto>für</ditto> <hi rend=bold>Niebuhr</hi>.
-<row><cell>H. <hi>Rippler</hi> in <hi>Berlin</hi>             <cell><ditto>für</ditto> <hi rend=bold>Bismarck</hi>.
-<row><cell>Prof. Dr. <hi>Schäfer</hi> in <hi>Heidelberg</hi>  <cell><ditto>für</ditto> <hi rend=bold>Treitschke</hi>.
-<row><cell>Prof. Dr. <hi>Schmoller</hi> in <hi>Berlin</hi>    <cell><ditto>für</ditto> <hi rend=bold>Friedr. Wilhelm I.</hi>
-<row><cell>Prof. Dr. <hi>Waentig</hi> in <hi>Greifswald</hi>  <cell><ditto>für</ditto> <hi rend=bold>St. Simon</hi>.
+<row><cell>Prof. Dr. <hi>v. Bezold</hi> in <hi>Bonn</hi>      <cell><seg id=s1>für</seg> <hi rend=bold>Bodinus</hi>.
+<row><cell>Dr. <hi>Gaupp</hi> in <hi>London</hi>              <cell><seg copyOf=s1>,,</seg> <hi rend=bold>Gladstone</hi>.
+<row><cell>Prof. Dr. <hi>Gothein</hi> in <hi>Bonn</hi>        <cell><seg copyOf=s1>,,</seg> <hi rend=bold>Vico</hi>.
+<row><cell>Prof. Dr. <hi>Grünberg</hi> in <hi>Wien</hi>       <cell><seg copyOf=s1>,,</seg> <hi rend=bold>Turgot</hi>.
+<row><cell>Prof. Dr. <hi>Hasbach</hi> in <hi>Kiel</hi>        <cell><seg copyOf=s1>,,</seg> <hi rend=bold>Adam Smith</hi>.
+<row><cell>Prof. Dr. <hi>Hintze</hi> in <hi>Berlin</hi>       <cell><seg copyOf=s1>,,</seg> <hi rend=bold>Friedrich d. Gr.</hi>
+<row><cell>Prof. Dr. <hi>Marcks</hi> in <hi>Leipzig</hi>      <cell><seg copyOf=s1>,,</seg> <hi rend=bold>Dahlmann</hi>.
+<row><cell>Prof. Dr. <hi>Oldenberg</hi> in <hi>Marburg</hi>   <cell><seg copyOf=s1>,,</seg> <hi rend=bold>K. Marx</hi>.
+<row><cell>Prof. Dr. <hi>Pribram</hi> in <hi>Wien</hi>        <cell><seg copyOf=s1>,,</seg> <hi rend=bold>Cromwell</hi>.
+<row><cell>Prof. Dr. <hi>Rathgen</hi> in <hi>Marburg</hi>     <cell><seg copyOf=s1>,,</seg> <hi rend=bold>Niebuhr</hi>.
+<row><cell>H. <hi>Rippler</hi> in <hi>Berlin</hi>             <cell><seg copyOf=s1>,,</seg> <hi rend=bold>Bismarck</hi>.
+<row><cell>Prof. Dr. <hi>Schäfer</hi> in <hi>Heidelberg</hi>  <cell><seg copyOf=s1>,,</seg> <hi rend=bold>Treitschke</hi>.
+<row><cell>Prof. Dr. <hi>Schmoller</hi> in <hi>Berlin</hi>    <cell><seg copyOf=s1>,,</seg> <hi rend=bold>Friedr. Wilhelm I.</hi>
+<row><cell>Prof. Dr. <hi>Waentig</hi> in <hi>Greifswald</hi>  <cell><seg copyOf=s1>,,</seg> <hi rend=bold>St. Simon</hi>.
 </table>
 
 <p>Darstellungen von <hi rend=bold>Cavour</hi>, <hi rend=bold>Roon</hi>, <hi rend=bold>Moltke</hi>, <hi rend=bold>Lassalle</hi>, <hi rend=bold>Fr. List</hi> und andern grossen Staatsmännern und Nationalökonomen werden folgen.
@@ -2268,15 +2269,15 @@ TEI header
 [ ] Fill in description in noteStmt.
 [ ] Fill in keywords / Subjects
 [ ] Add auto-generated colophon divGen tag.
-[ ] Fill in reference to LOC record (http://catalog.loc.gov/).
-[ ] Fill in reference to OpenLibrary record (http://openlibrary.org).
-[ ] Fill in reference to WorldCat record (source and work) (http://www.worldcat.org).
-[ ] Generate unique epub-id. (http://www.guidgenerator.com/)
+[ ] Fill in reference to LOC record (https://catalog.loc.gov/).
+[ ] Fill in reference to OpenLibrary record (https://openlibrary.org).
+[ ] Fill in reference to WorldCat record (source and work) (https://www.worldcat.org).
+[ ] Generate unique epub-id. (https://www.guidgenerator.com/)
 
 Verse
 
 [ ] Tag all verse.
-[ ] Apply proper indentation: rend=&ldquo;indent(2)&rdquo;
+[ ] Apply proper indentation: rend="indent(2)"
 
 Lists
 
